@@ -17,5 +17,9 @@ Built for speed, reliability, and large-scale checking with proxy rotation and r
 - ⚡ High-performance (async + threading)
 - 🔁 Smart retry system (up to 3 attempts)
 - 🌐 Proxy support with rotation + cooldown
-- 🧠 Auto-detect input type (user / email / phone)
 - 📂 Auto-save results to output files
+## 📬 Contact
+
+For more information:
+
+- Telegram: **@oxoxm**
