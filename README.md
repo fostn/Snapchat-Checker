@@ -1,4 +1,4 @@
-#Snapchat-Registration-Checker
+# Snapchat-Registration-Checker
 
 Advanced async tool to check usernames, emails, and phone numbers using internal endpoints.
 
