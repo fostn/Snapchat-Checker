@@ -15,7 +15,6 @@ Built for speed, reliability, and large-scale checking with proxy rotation and r
   - Phone numbers
 
 - ⚡ High-performance (async + threading)
-- 🔁 Smart retry system (up to 3 attempts)
 - 🌐 Proxy support with rotation + cooldown
 - 📂 Auto-save results to output files
 ## 📬 Contact
